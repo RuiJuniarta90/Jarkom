@@ -10,7 +10,7 @@ Modul 3 bertujuan agar mahasiswa mampu menganalisis dan memahami mekanisme kerja
 Langkah-langkah Praktikum Modul 3
 1. Persiapan Awal
 Jalankan aplikasi Wireshark.
-![Buka Wireshark](../assets/image/week3-00.png)
+![Buka Wireshark](image/week3-1.png)
 Pada menu capture, pilih interface WiFi, kemudian proses capture akan berjalan secara otomatis.
 
 2. Percobaan 1: HTTP GET dan Response Dasar
