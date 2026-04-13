@@ -53,4 +53,4 @@ Modul 2 - Cara menggunakan Wireshark dan toolsnya
 3. klik "line-based text data" yang akan menampilkan:
 ![Wireshark - 4](../image/16.png)
 
-4. Untuk keluar klik ikon persegi pada pojok kiri atas, Lalu klik ikon "x" pada pojok kanan atas
+4. Untuk keluar klik ikon persegi pada pojok kiri atas, Lalu klik ikon "x" pada pojok kanan atas dan selesai
